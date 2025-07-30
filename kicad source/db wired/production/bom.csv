@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SOD-123_Bidirectional,1,SMF9.0CA,
+F1,1206,1,ASMD1206-150,
+J1,TYPE-C-31-M-12,1,J1,
+J3,Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal,1,Conn_01x06_Pin,
+L1,0603,1,60R@100MHz,
+"MH1_2, MH1, MH3, MH4",Generic-Mounthole,4,Mount-M2,
+"R1, R2",R_0603,2,5.1k,
+U1,USON-10_2.5x1.0mm_P0.5mm,1,TPD4E05U06DQAR,

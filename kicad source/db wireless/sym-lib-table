@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "acheronSymbols")(type "Legacy")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib")(options "")(descr ""))
+  (lib (name "Unified-Daughterboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/Unified-Daughterboard-rescue.kicad_sym")(options "")(descr ""))
+)
